@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=b5F667g1yCk&t=0s
+https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data
+
+
+https://github.com/krishnaik06/FastAPI
